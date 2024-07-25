@@ -1,0 +1,4 @@
+jsonschema
+pydantic 
+referencing
+nuitka 
